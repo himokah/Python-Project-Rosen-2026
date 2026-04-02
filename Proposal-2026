@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Dollar Drawing
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+I want to do a project similar to the Huricane Tracker where if we upload a picture of a dollar and then turtle would draw the dollar.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+The project is similar to the Hurricane Tracker. It will allow the user to upload a picture of a dollar or any form of currency in a folder. Then using Turtle it will draw it. We're probably going to have to use an Library or an API for it. Library we would use either Pillow or OpenCV
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Jaylan Byrd - Section 003 - jaylan.bryd@temple.edu
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Good Outcome would be that it's partially able to do a dollar which would mean we would be on the right path.
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+BETTER: It's able to do a full dollar completely without any issues
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+BEST: We could have multiple images on file and we could choose which one and it would run without needing to change any code.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+1. Ask Rosen on how to do the image setup he did in irma
+2. Mainly do research on how to us e Pillow and OpenCV
+3. start working on the code and constantly ask TA for help along the way
